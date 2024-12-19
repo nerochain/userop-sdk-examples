@@ -32,8 +32,8 @@ yarn generate-config
 
 ```json
 {
-  _comment: "This config is for the NERO Chain Testnet.",
-  _comment1: "Information about each of the params can be found at NERO Docs(https://docs.nerochain.io/en/aa/accessEntryPoint).",
+  "_comment": "This config is for the NERO Chain Testnet.",
+  "_comment1": "Information about each of the params can be found at NERO Docs(https://docs.nerochain.io/en/aa/accessEntryPoint).",
   "rpcUrl": "https://rpc-testnet.nerochain.io",
   "signingKey": "YOUR_PRIVATE_KEY",
   "entryPoint": "0x5FF137D4b0FDCD49DcA30c7CF57E578a026d2789",

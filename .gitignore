@@ -1,0 +1,44 @@
+# 設定ファイルと機密情報
+config.json
+.env
+.env.*
+*.pem
+*.key
+
+# 依存関係
+node_modules/
+yarn-debug.log*
+yarn-error.log*
+.yarn-integrity
+.pnp.*
+.yarn/*
+
+# ビルド出力
+dist/
+build/
+*.tsbuildinfo
+
+# IDE・エディタ
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+.history/
+*.sublime-workspace
+*.sublime-project
+
+# テスト関連
+coverage/
+.nyc_output/
+
+# デバッグ
+npm-debug.log*
+debug.log
+
+# その他
+.cache/
+.temp/
+tmp/
+*.log
+logs/

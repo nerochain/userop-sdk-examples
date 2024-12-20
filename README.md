@@ -40,7 +40,7 @@ yarn generate-config
   "factory": "0x9406Cc6185a346906296840746125a0E44976454",
   "bundlerRpc": "https://bundler.service.nerochain.io",
   "paymaster": {
-    "rpcUrl": "https://paymaster.nerochain.io",
+    "rpcUrl": "https://paymaster-testnet.nerochain.io",
     "type": "select type",
     "apikey": "YOUR_PAYMASTER_API_KEY",
     "token": "ERC20_TOKEN_ADDRESS"

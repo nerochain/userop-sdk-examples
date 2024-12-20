@@ -12,7 +12,7 @@ const INIT_CONFIG = {
   factory: "0x9406Cc6185a346906296840746125a0E44976454",
   bundlerRpc: "https://bundler.service.nerochain.io", 
   paymaster: {
-    rpcUrl: "https://paymaster.nerochain.io",
+    rpcUrl: "https://paymaster-testnet.nerochain.io",
     type: "select type",
     apikey: "Paymaster_ApiKey",
     token: "ERC20Token_ContractAddress"

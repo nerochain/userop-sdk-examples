@@ -12,8 +12,8 @@ A collection of example scripts for working with ERC-4337 on NERO Chain. These e
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/nerochain/erc4337-examples.git
-cd erc4337-examples
+git clone git@github.com:nerochain/userop-sdk-examples.git
+cd userop-sdk-examples
 ```
 
 2. Install dependencies:

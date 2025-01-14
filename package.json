@@ -1,8 +1,8 @@
 {
-  "name": "erc4337-examples",
+  "name": "userop-sdk-examples",
   "version": "1.0.0",
-  "description": "A collection of example scripts for working with ERC-4337.",
-  "repository": "git@github.com:nerochain/erc4337-examples.git",
+  "description": "A collection of example scripts for working with aa-userop-sdk.",
+  "repository": "git@github.com:nerochain/userop-sdk-examples.git",
   "license": "MIT",
   "scripts": {
     "lint": "eslint . && tsc --noEmit",
